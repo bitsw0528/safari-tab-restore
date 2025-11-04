@@ -4,6 +4,8 @@ Tab Restore is a lightweight macOS app that lets you reopen the Safari windows o
 
 ## Features
 
+<img width="732" height="632" alt="image" src="https://github.com/user-attachments/assets/299dfd9f-a054-4d2f-975a-bbed3470bca5" />
+
 - Reads Safari’s Recently Closed Tabs list
 - Lets you pick only the tabs or windows you want to reopen
 
