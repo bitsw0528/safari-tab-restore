@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>Tab Restore</string>
+	<key>CFBundleDisplayName</key>
+	<string>Tab Restore</string>
+	<key>CFBundleIdentifier</key>
+	<string>CONSOC.tab-restore</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>This app needs to send Apple Events to Safari to restore your closed tabs.</string>
+	<key>NSSystemAdministrationUsageDescription</key>
+	<string>This app needs access to read Safari's recently closed tabs data to help you restore them.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>This app needs access to your user folder to read Safari's data files.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>This app needs access to your Library folder to read Safari's recently closed tabs.</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>NSSupportsAutomaticTermination</key>
+	<true/>
+	<key>NSSupportsSuddenTermination</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
